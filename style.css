@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: olive;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+.image-section {
+  display: flex;
+justify-content: center;
+    
+}
+
+.section-style {
+flex: 50%;
+ padding: 5px;
+ background-color: orange;
+    
+}
+
